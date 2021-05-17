@@ -8,7 +8,7 @@ import nachos.security.*;
  * A hardware timer generates a CPU timer interrupt approximately every 500
  * clock ticks. This means that it can be used for implementing time-slicing,
  * or for having a thread go to sleep for a specific period of time.
- *
+ * 조세희 일 해라.
  * The <tt>Timer</tt> class emulates a hardware timer by scheduling a timer
  * interrupt to occur every time approximately 500 clock ticks pass. There is
  * a small degree of randomness here, so interrupts do not occur exactly every

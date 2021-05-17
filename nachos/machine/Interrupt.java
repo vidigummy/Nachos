@@ -17,7 +17,7 @@ import java.util.SortedSet;
  * In order to emulate the hardware, we need to keep track of all pending
  * interrupts the hardware devices would cause, and when they are supposed to
  * occur.
- *
+ * 세희야 노력하자
  * <p>
  * This module also keeps track of simulated time. Time advances only when the
  * following occur:

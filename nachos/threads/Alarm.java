@@ -6,7 +6,7 @@ import java.util.TreeMap;
 
 /**
  * Uses the hardware timer to provide preemption, and to allow threads to sleep
- * until a certain time.
+ * until a certain time. 하...
  */
 public class Alarm {
     private TreeMap<Long, KThread> waitingThreads;
